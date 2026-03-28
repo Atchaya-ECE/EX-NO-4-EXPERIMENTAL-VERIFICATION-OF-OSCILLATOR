@@ -1,4 +1,4 @@
-<img width="1280" height="859" alt="image" src="https://github.com/user-attachments/assets/3bb8b845-8b37-47b5-b0be-d33baf28ff77" /><img width="1280" height="859" alt="image" src="https://github.com/user-attachments/assets/2b1e7517-9d77-47e0-9f91-f8d6314e1232" /># EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
+# EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
 4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
 	DATE:
  ##AIM:
