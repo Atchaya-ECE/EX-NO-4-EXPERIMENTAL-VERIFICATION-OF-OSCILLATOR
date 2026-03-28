@@ -1,12 +1,12 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
-4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
-	DATE:
- ##AIM:
+## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
+
+##AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
- ##THEORY:
- ##RC PHASE SHIFT OSCILLATOR
+##THEORY:
+##RC PHASE SHIFT OSCILLATOR
 RC phase shift oscillator produces 360° of phase shift in two parts. Firstly,each and every RC pair in the feedback network produces 60° phase shift and totally there were three pairs, thus producing 180° Phase shift and secondly, the feedback input is given to the inverting terminal of op-amp to produce another 180° phase shift and a total phase shift of 360°.
 The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an inverting amplifier is used, the gain must be atleast equal to 29 to ensure the oscillations with constant .
 ---
@@ -29,9 +29,10 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+<img width="1145" height="1148" alt="image" src="https://github.com/user-attachments/assets/ce363203-9aed-4a37-9ec1-b16169ea748e" />
 
-<img width="1280" height="1039" alt="image" src="https://github.com/user-attachments/assets/358bf0f6-611d-43d5-baea-2491d5adca4b" />
+
+
 
 
 ---
@@ -40,7 +41,8 @@ RC PHASE SHIFT OSCILLATOR
 <img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
 
 ## DESIGN
-<img width="1280" height="859" alt="image" src="https://github.com/user-attachments/assets/73101e0d-1741-4f57-ae61-5e6f70e0fd5a" />
+![Uploading image.png…]()
+
 
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
@@ -129,7 +131,6 @@ Rf = 15K *2=30KΩ
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="1145" height="1148" alt="image" src="https://github.com/user-attachments/assets/62573506-a098-47c3-bb4f-4f8cbc331e87" />
 
 
 
