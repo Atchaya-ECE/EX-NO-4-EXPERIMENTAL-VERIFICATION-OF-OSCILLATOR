@@ -28,7 +28,8 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 
 ---
 ## CIRCUIT DIAGRAM
-RC PHASE SHIFT OSCILLATOR
+## RC PHASE SHIFT OSCILLATOR
+
 <img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
 
 <img width="1145" height="1148" alt="image" src="https://github.com/user-attachments/assets/ce363203-9aed-4a37-9ec1-b16169ea748e" />
@@ -93,7 +94,7 @@ The frequency of oscillation is given by fo = 1/2πRC
 WIEN BRIDGE OSCILLATOR
 <img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
 
-<img width="1280" height="1039" alt="image" src="https://github.com/user-attachments/assets/d7ed214d-cc0c-4fb2-ad1f-e104bfe460d9" />
+<img width="1200" height="1148" alt="image" src="https://github.com/user-attachments/assets/9a331699-5ba3-4e41-9f6a-bc6d5acfefe2" />
 
 ---
 ## MODEL GRAPH
