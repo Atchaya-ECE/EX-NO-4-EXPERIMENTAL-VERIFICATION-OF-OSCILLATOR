@@ -1,7 +1,8 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
 ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
 
-AIM:
+## AIM:
+
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
@@ -44,7 +45,8 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 <img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
 
 ## DESIGN
-<img width="1200" height="1148" alt="image" src="https://github.com/user-attachments/assets/8ff4c023-fe6b-4408-b438-01fd5af0aa46" />
+<img width="1280" height="1039" alt="image" src="https://github.com/user-attachments/assets/f4aa7bf8-7df2-4be0-bc08-350ae7ffb835" />
+
 
 
 
